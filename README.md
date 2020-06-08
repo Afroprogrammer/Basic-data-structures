@@ -9,5 +9,4 @@
 - [Copy Array Items Using slice()](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/copy-array-items-using-slice.js)
 - [Copy an Array with the Spread Operator](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/copy-an-array-with-the-spread-operator.js)
 - [Combine Arrays with the Spread Operator](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/combine-arrays-with-the-spread-operator.js)
-- []
 - [Check For The Presence of an Element With indexOf()](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/check-for-the-presence-of-an-element-with-indexof.js)
