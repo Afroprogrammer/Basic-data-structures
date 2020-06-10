@@ -10,3 +10,8 @@
 - [Copy an Array with the Spread Operator](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/copy-an-array-with-the-spread-operator.js)
 - [Combine Arrays with the Spread Operator](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/combine-arrays-with-the-spread-operator.js)
 - [Check For The Presence of an Element With indexOf()](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/check-for-the-presence-of-an-element-with-indexof.js)
+- [Iterate Through All an Array's Items Using For Loops](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/iterate-through-all-an-arrays-items-using-for-loops.js)
+- [Create complex multi-dimensional arrays](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/create-complex-multi-dimensional-arrays.js)
+- [Add Key-Value Pairs to JavaScript Objects](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/add-key-value-pairs-to-javascript-objects.js)
+- [Modify an Object Nested Within an Object](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/modify-an-object-nested-within-an-object.js)
+- []()
