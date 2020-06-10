@@ -1,4 +1,6 @@
 # Basic-data-structures
+Answers to all freecodecamp.org basic data structures course
+------------------------------------------------------------------
 
 - [Use an Array to Store a Collection of Data](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/use-an-array-to-store-a-collection-of-data.js)
 - [Access an Array's Contents Using Bracket Notation](https://github.com/Afroprogrammer/Basic-data-structures/blob/master/access-an-arrays-contents-using-bracket-notation.js)
